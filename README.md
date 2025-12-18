@@ -1,6 +1,6 @@
 # Hi there, I'm Abdullah Aakukara! 👋
 
-### 🚀 Backend Engineer | PEN Stack Specialist (Postgres, Express, Node.js)
+### 🚀 Backend Engineer | PEN Stack (Postgres, Express, Node.js)
 
 I am a final-year Computer Science student and a dedicated Backend Engineer focused on building secure, high-performance, and scalable web architectures. I specialize in the **PEN stack**, with a strong emphasis on database design, API security, and "deployment-first" development.
 
@@ -10,20 +10,30 @@ Currently, I am building **UniMarket**, a robust multi-vendor e-commerce API des
 
 ### 🛠️ Tech Stack
 
+
 **Backend & Database:**
 <div align="left">
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code>
-  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express" title="Express"/></code>
-  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express" title="Express"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code>
 </div>
 
 <br> 
 
-**Core Skills:**
-* **Security:** JWT Stateless Auth, bcrypt hashing, API Rate Limiting (Defense-in-Depth).
-* **Architecture:** Relational Database Design, SQL Joins, Foreign Key Constraints.
-* **Storage:** File Upload Systems (Multer) and Static Asset Serving.
-* **Workflow:** RESTful API Design, Git/GitHub, Postman.
+**Languages:**
+<div align="left">
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
+</div>
+
+<br> 
+
+**Tools & Utilities:**
+<div align="left">
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="bash" title="bash"/></code>
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code>
+</div>
 
 ---
 
@@ -31,12 +41,12 @@ Currently, I am building **UniMarket**, a robust multi-vendor e-commerce API des
 
 **🛒 [UniMarket - Multi-Vendor E-Commerce API](https://github.com/Abdullah-Aakukara/unimarket-api)**
 *A campus marketplace backend featuring complex relationships and high-security standards.*
-* **Stack:** Node.js, Express, PostgreSQL, Multer, Express-Rate-Limit.
-* **Key Features:** Secure image uploads, JWT-protected routes, and database-level data integrity (ON DELETE CASCADE).
+* **Stack:** Node.js, Express, PostgreSQL, Multer, bcrypt, Express-Rate-Limit.
+* **Key Features:** Secure image uploads, JWT-protected routes, and database-level data integrity.
 
 **🔐 [Private Thoughts API](https://github.com/Abdullah-Aakukara/Private-Thoughts-API)**
 *A secure backend service for managing private notes.*
-* **Stack:** Node.js, Express, PostgreSQL, JWT.
+* **Stack:** Node.js, Express, PostgreSQL, bcrypt, JWT.
 * **Key Features:** Data ownership logic and industry-standard authentication middleware.
 
 **🎓 [College Complaint Management System](https://github.com/Abdullah-Aakukara/CollegeComplaintSystem)**
