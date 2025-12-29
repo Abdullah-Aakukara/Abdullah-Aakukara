@@ -2,9 +2,8 @@
 
 ### 🚀 Backend Engineer | PEN Stack (Postgres, Express, Node.js)
 
-I am a final-year Computer Science student and a dedicated Backend Engineer focused on building secure, high-performance, and scalable web architectures. I specialize in the **PEN stack**, with a strong emphasis on database design, API security, and "deployment-first" development.
+I am a final-year Computer Science student and a dedicated Backend Engineer focused on building secure, high-performance, and scalable web architectures. I specialize in the **PEN stack**, with a strong emphasis on API security and "production-ready" mindset. 
 
-Currently, I am building **UniMarket**, a robust multi-vendor e-commerce API designed to handle the complexities of a campus marketplace.
 
 ---
 
@@ -39,19 +38,21 @@ Currently, I am building **UniMarket**, a robust multi-vendor e-commerce API des
 
 ### 🔭 Featured Projects
 
-**🛒 [UniMarket - Multi-Vendor E-Commerce API](https://github.com/Abdullah-Aakukara/unimarket-api)**
+**🛒 [UniMarket - Multi-Vendor E-Commerce API](https://github.com/Abdullah-Aakukara/unimarket-api)** - 
 *A campus marketplace backend featuring complex relationships and high-security standards.*
+* **Live Production API:** [https://unimarket-d7nz.onrender.com](https://unimarket-d7nz.onrender.com)
+* **Full API Documentation:** [View on Postman](https://documenter.getpostman.com/view/48552920/2sBXVbGDJs)
 * **Stack:** Node.js, Express, PostgreSQL, Multer, bcrypt, Express-Rate-Limit.
 * **Key Features:** Secure image uploads, JWT-protected routes, and database-level data integrity.
 
-**🔐 [Private Thoughts API](https://github.com/Abdullah-Aakukara/Private-Thoughts-API)**
+**🔐 [Private Thoughts API](https://github.com/Abdullah-Aakukara/Private-Thoughts-API)** - 
 *A secure backend service for managing private notes.*
 * **Stack:** Node.js, Express, PostgreSQL, bcrypt, JWT.
 * **Key Features:** Data ownership logic and industry-standard authentication middleware.
 
-**🎓 [College Complaint Management System](https://github.com/Abdullah-Aakukara/CollegeComplaintSystem)**
+**🎓 [College Complaint Management System](https://github.com/Abdullah-Aakukara/CollegeComplaintSystem)** - 
 *Full-scale administrative workflow application.*
-* **Stack:** C#, .NET, SQL Server.
+* **Stack:** WinForms, C#, .NET, SQL Server.
 
 ---
 
