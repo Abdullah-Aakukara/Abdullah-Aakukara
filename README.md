@@ -2,8 +2,9 @@
 
 ### 🚀 Backend Engineer | PEN Stack | Production-Ready Systems
 
-I am a final-year Computer Science student and a **Backend Engineer** focused on building **secure, scalable, and production-grade backend systems**.  
-I specialize in the **PEN stack (PostgreSQL, Express, Node.js)** with strong experience in **architecture design, performance optimization, security, and cloud deployment**.
+I am a Computer Science grad and a **Backend Engineer** focused on building **secure, scalable, and production-grade backend systems**.  
+
+I specialize in the **PEN stack (PostgreSQL, Express, Node.js)** with strong experience in **architecting robust APIs, performance optimization, security, complex OAuth integrations and cloud deployment**.
 
 Currently, I am expanding toward **Full-Stack Development**, starting with frontend technologies, while continuing to deepen my backend expertise.
 
@@ -16,6 +17,7 @@ Currently, I am expanding toward **Full-Stack Development**, starting with front
   <code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code>
   <code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express" title="Express"/></code>
   <code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" alt="Redis" title="Redis"/></code>
+  <code><img width="45" src="https://img.shields.io/badge/Render-46E3B7?style=circle&logo=render&logoColor=white" alt="Render" title="Render"/></code>
 </div>
 
 <br>
@@ -62,15 +64,28 @@ A **production-ready backend** for a multi-vendor marketplace, designed with per
 
 ---
 
-### 🔐 Private Thoughts API
-🔗 https://github.com/Abdullah-Aakukara/Private-Thoughts-API  
+### ⚡ SyncFlow — HubSpot OAuth Integration Engine
+🔗 https://github.com/Abdullah-Aakukara/SyncFlow-OAuth
 
-A secure backend service for managing private user notes.
+A backend **OAuth 2.0 engine** that handles secure authorization and live CRM data fetching for HubSpot.
 
 **Highlights:**
-- JWT-based authentication
-- Data ownership & authorization logic
-- PostgreSQL relational design
+* **OAuth 2.0 Lifecycle:** Engineered a complete server-side authentication flow to securely connect with HubSpot CRM, handling authorization, code exchange, and token persistence.
+* **State Management & Security:** Architected a Redis-based system for CSRF validation using JSON-encoded state parameters and secure key-overwriting strategies.
+* **Multi-Tenant Isolation:** Implemented access control by scoping tokens to unique user-organization combinations, ensuring data privacy across different accounts.
+
+---
+
+### 📚 Nodemy — Edtech Course Platform
+🔗 https://github.com/Abdullah-Aakukara/Nodemy
+
+A high-performance backend system for an Edtech platform focusing on **secure transactions** and **role-based access**.
+
+**Highlights:**
+* **Advanced Authorization:** Implemented a robust Role-Based Access Control (RBAC) system using a "Double-Gatekeeper" strategy with JWT and custom higher-order middleware.
+* **Atomic Financial Workflows:** Designed a secure, asynchronous checkout process using PostgreSQL Transactions (`BEGIN`/`COMMIT`) to ensure 100% data consistency during payment simulations.
+* **Relational Schema Design:** Engineered a normalized database using ENUM types and join tables to manage complex relationships between users, courses, and enrollments.
+* **Security Hardening:** Enforced centralized request validation with `express-validator` and cryptographic password hashing using Bcrypt.
 
 ---
 
